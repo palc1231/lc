@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CakePHP Sample App on OpenShift
 ===============================
 
@@ -100,3 +101,6 @@ After you [oc rsh](https://docs.openshift.org/latest/cli_reference/basic_cli_ope
 
 ###License
 This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+=======
+# lc
+>>>>>>> 07050f7b894ebcdae52d2524b6df9d56e6613302
